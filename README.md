@@ -10,7 +10,8 @@ Now I'm studying at KMUTT, I'm a Fullstack Developer / Software Developer.
 
 ###
 
-<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="150" height="150" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNzOXo5bzR3NmxrbGxjbTZrb2wya2locHc2NHJzMGg0Ymk5NWU1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp"  />
+
 
 ###
 
