@@ -1,6 +1,10 @@
 <h2 align="left">Hi 👋! My name is Atiwit Thongngoen</h2>
 Now I'm studying at KMUTT, I'm a Fullstack Developer / Software Developer.
+ 
+- 🌱 I’m currently learning JavaScript and AI 
+- ⚡ Fun fact: I always sleep on my codes.
 
+  
 ###
 
 <div align="center">
