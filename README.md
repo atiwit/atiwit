@@ -56,7 +56,6 @@ Now I'm studying at KMUTT, I'm a Fullstack Developer / Software Developer.
 
 <br clear="both">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU0MW9jYmIyeTM1amdrYzRnamI3eWV0NnN4bTQybnQ2bjZtMXl1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Snake animation" />
 
 
 ###
