@@ -15,7 +15,7 @@ Now I'm studying at KMUTT, I'm a Fullstack Developer / Software Developer.
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -34,7 +34,7 @@ Now I'm studying at KMUTT, I'm a Fullstack Developer / Software Developer.
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/channel/UCsJHwHHvMtRAnPWerw-krXA" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
    <a/>
@@ -55,6 +55,8 @@ Now I'm studying at KMUTT, I'm a Fullstack Developer / Software Developer.
 ###
 
 <br clear="both">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU0MW9jYmIyeTM1amdrYzRnamI3eWV0NnN4bTQybnQ2bjZtMXl1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Snake animation" />
 
 
 ###
