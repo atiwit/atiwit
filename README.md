@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
+<h2 align="left">Hi 👋! My name is Atiwit Thongngoen</h2>
+Now I'm studying at KMUTT, I'm a Fullstack Developer / Software Developer.
 ###
 
 <div align="center">
